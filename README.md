@@ -75,7 +75,8 @@ You are now looking at the sqlite prompt.
 Let's create a database table called "Test Table":
 
 ```bash
-sqlite> create table test_table(id);
+sqlite> q
+
 sqlite> .quit
 ```
 
